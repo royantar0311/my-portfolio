@@ -1,0 +1,8 @@
+html {
+  margin: 0;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+  list-style-type: none;
+}
