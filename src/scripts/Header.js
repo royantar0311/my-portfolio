@@ -32,7 +32,7 @@ function Header() {
             </NavLink>
             <NavLink
               exact
-              to='/about'
+              to='/resume'
               className='link header__navItem'
               onClick={() => setHamOpen(false)}
             >
@@ -42,7 +42,7 @@ function Header() {
             </NavLink>
             <NavLink
               exact
-              to='/about'
+              to='/skills'
               className='link header__navItem'
               onClick={() => setHamOpen(false)}
             >
@@ -50,7 +50,7 @@ function Header() {
             </NavLink>
             <NavLink
               exact
-              to='/about'
+              to='/projects'
               className='link'
               onClick={() => setHamOpen(false)}
             >

@@ -1,0 +1,34 @@
+.skills {
+  margin: 0;
+  height: 85vh;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.skills__compititiveProgramming,
+.skills__toolsFrameworks,
+.skills__languages {
+  margin: 3vh 4vw;
+}
+.skills__externalLinkIcon {
+  height: 15px;
+}
+.skills__headings {
+  font-weight: 500;
+  font-size: 21px;
+  text-decoration: underline;
+}
+.skills__ul {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.skills__ul > li {
+  margin: 0.8vh;
+  padding: 1vh;
+  font-size: 18px;
+  background-color: rgba(130, 130, 130, 0.1);
+  border-radius: 30px;
+}

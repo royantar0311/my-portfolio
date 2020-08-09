@@ -1,0 +1,37 @@
+.projects {
+  margin: auto;
+  font-family: sans-serif;
+  width: 70%;
+
+  min-height: 83vh;
+  max-height: fit-content;
+}
+.projects__headings {
+  font-size: 21px;
+  font-weight: 600;
+  margin: 0;
+}
+.project_card {
+  /* border: 1px solid black; */
+  background-color: rgba(130, 130, 130, 0.1);
+  padding: 30px;
+  margin: 3vh auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px rgba(130, 130, 130, 0.1);
+}
+.projects__description {
+  font-size: 2vh;
+  margin: 30px auto;
+  font-weight: 100;
+}
+.projects__seeProjectLink {
+  font-weight: 400;
+  background-color: rgba(130, 130, 130, 0.4);
+  padding: 7px;
+  font-size: 13px;
+  border-radius: 25px;
+}
+.projects__seeProjectLink:hover {
+  background-color: rgba(130, 130, 130, 0.5);
+  cursor: pointer;
+}

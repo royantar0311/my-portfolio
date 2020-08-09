@@ -1,0 +1,7 @@
+.resume {
+  height: 85vh;
+  font-size: 3vh;
+}
+.resume > h3 {
+  text-align: center;
+}

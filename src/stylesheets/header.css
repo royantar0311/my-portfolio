@@ -45,7 +45,7 @@
   }
   .header__nav__ham > ul {
     flex-direction: column;
-    background-color: rgba(80, 80, 80, 0.2);
+    background-color: rgba(170, 170, 170, 1);
     top: 10vh;
     width: fit-content;
     right: 0px;
